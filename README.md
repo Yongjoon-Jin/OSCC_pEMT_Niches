@@ -1,6 +1,7 @@
-# OSCC_p-EMT_Niches
-Spatial transcriptomics and single-nucleus RNA-seq analysis revealing distinct partial EMT programs associated with recurrence in OSCC
+# OSCC_pEMT_Niches
+Spatial transcriptomics and single-nucleus RNA-seq analysis revealing niche-defined, distinct partial EMT programs driving recurrence in OSCC
 
+Tumor niches, rather than a uniform EMT program, define distinct p-EMT states associated with OSCC recurrence
 
 ## Citation
 If you use this code, please cite our paper:

@@ -3,7 +3,8 @@ Spatial transcriptomics and single-nucleus RNA-seq analysis revealing niche-defi
 
 Tumor niches, rather than a uniform EMT program, define distinct p-EMT states associated with OSCC recurrence
 
-<img width="3000" height="2666" alt="OSCC_grahical abstract" src="https://github.com/user-attachments/assets/96a0a325-5abc-4d59-933f-344d792a9fa8" />
+![Uploading OSCC_grahical abstract.png…]()
+
 
 
 ## Citation
